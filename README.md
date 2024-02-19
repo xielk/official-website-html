@@ -4,4 +4,4 @@
 
 ## 效果截图
 
-![alt text](images/screenshots.jpg "网站截图")
+
